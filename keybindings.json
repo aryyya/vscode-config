@@ -1,0 +1,7 @@
+// Place your key bindings in this file to override the defaults
+[
+  { "key": "ctrl+o", "command": "workbench.action.terminal.focus"},
+  { "key": "ctrl+o", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"},
+  { "key": "ctrl+c ctrl+c", "command": "calva.evaluateCurrentTopLevelForm"},
+  { "key": "ctrl+c ctrl+k", "command": "calva.evaluateFile"}
+]
