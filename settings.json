@@ -19,5 +19,5 @@
   "window.newWindowDimensions": "maximized",
   "calva.lintOnSave": true,
   "calva.evalOnSave": true,
-  "editor.fontSize": 13
+  "editor.fontSize": 12
 }
