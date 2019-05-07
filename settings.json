@@ -9,15 +9,15 @@
     "other": false,
     "strings": false
   },
-  "editor.renderIndentGuides": false,
   "editor.tabSize": 2,
   "extensions.ignoreRecommendations": false,
-  "window.zoomLevel": 1,
-  "workbench.colorTheme": "Default Light+",
+  "window.zoomLevel": 2,
   "workbench.startupEditor": "newUntitledFile",
   "workbench.activityBar.visible": false,
   "window.newWindowDimensions": "maximized",
   "calva.lintOnSave": true,
   "calva.evalOnSave": true,
-  "editor.fontSize": 12
+  "editor.fontSize": 12,
+  "workbench.statusBar.visible": true,
+  "emmet.triggerExpansionOnTab": true
 }
