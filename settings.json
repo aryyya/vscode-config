@@ -3,6 +3,7 @@
     "editor.tabSize": 4
   },
   "editor.detectIndentation": false,
+  "editor.fontSize": 12,
   "editor.minimap.enabled": false,
   "editor.quickSuggestions": {
     "comments": false,
@@ -10,12 +11,15 @@
     "strings": false
   },
   "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
   "extensions.ignoreRecommendations": false,
-  "window.zoomLevel": 2,
-  "workbench.startupEditor": "newUntitledFile",
-  "workbench.activityBar.visible": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
   "window.newWindowDimensions": "maximized",
-  "editor.fontSize": 12,
-  "workbench.statusBar.visible": true,
-  "emmet.triggerExpansionOnTab": true
+  "window.zoomLevel": 2,
+  "workbench.activityBar.visible": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": true
 }
