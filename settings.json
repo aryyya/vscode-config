@@ -18,7 +18,5 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "window.newWindowDimensions": "maximized",
   "window.zoomLevel": 1,
-  "workbench.activityBar.visible": false,
-  "workbench.startupEditor": "newUntitledFile",
-  "workbench.statusBar.visible": true
+  "workbench.startupEditor": "newUntitledFile"
 }
