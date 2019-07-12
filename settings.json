@@ -2,7 +2,6 @@
   "[python]": {
     "editor.tabSize": 4
   },
-  "editor.detectIndentation": false,
   "editor.fontSize": 12,
   "editor.minimap.enabled": false,
   "editor.quickSuggestions": {
@@ -18,7 +17,7 @@
   "extensions.ignoreRecommendations": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "window.newWindowDimensions": "maximized",
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "workbench.activityBar.visible": false,
   "workbench.startupEditor": "newUntitledFile",
   "workbench.statusBar.visible": true
